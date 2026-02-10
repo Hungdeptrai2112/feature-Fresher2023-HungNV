@@ -10,7 +10,7 @@ public class Class1
         switch (sign)
         {
             case SIGN.PLUS:
-                return arg1 + arg2;
+                return arg1 - arg2;
             default:
                 break;
         }
